@@ -2,7 +2,7 @@
 
 ## Trello
 
-Voici le [trello templates](https://trello.com/b/qnmBi8nm/fablab-projet)
+Voici le [trello templates](https://trello.com/b/YkBBZ6Hy/fablab)
 
 ## Description
 
